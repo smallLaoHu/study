@@ -4,7 +4,8 @@
 ## 时间复杂度
 	O(log2n)
 ## 代码实现
-```func BinarySearch(array []int, target int) (find bool, pos int){
+```
+func BinarySearch(array []int, target int) (find bool, pos int){
 	find = false
 	pos = -1
 	n := len(array)
