@@ -1,3 +1,4 @@
+// songguoqiang
 1. golang select是随机的还是顺序的
 
    随机的
